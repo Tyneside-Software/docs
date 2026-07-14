@@ -14,7 +14,14 @@ At the same time I’m helping Joanne grow her new cleaning business. Free softw
 
 ## 3. The Charity (social impact + publicity engine)
 
-I’m personally funding a charity that gives free deep-clean “welcome home” packages to every new parent in the North East (starting in our local postcode). Cleaners get paid work, new parents get practical help when they need it most, and the whole thing demonstrates the software in action while doing real good.
+I’m personally funding a charity that gives free deep-clean “welcome home” packages to new parents — **starting in Forest Hall** (about **400 births per year** when fully scaled).
+
+- **Unit cost:** 2-hour deep clean = **£30** (£15/hour to the cleaner).  
+- **Full Forest Hall:** **£12,000 / year** (phased pilot → expansions; all phases 100% charity-funded).  
+- Parents can **extend**; relatives can **gift** cleans — **100% of paid pounds to the cleaner**.  
+- **Tyneside Software** builds booking, scheduling, routing, and portals **for free** for cleaners on the programme.
+
+Cleaners get paid work, new parents get practical help when they need it most, and the whole thing demonstrates the software in action while doing real good. Detail: [Forest Hall free cleans](../charity/forest-hall-free-cleans.md).
 
 ---
 
