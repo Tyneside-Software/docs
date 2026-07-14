@@ -26,6 +26,7 @@ Vision, strategy, and reference material for the [Tyneside Software](https://git
 | [Laptop valuation (draft)](operations/laptop-valuation.md) | Value at loan + depreciation; sell for £ only |
 | [Forest Hall free cleans](charity/forest-hall-free-cleans.md) | Welcome-home cleans: phases, £12k/year full postcode, gift/extend |
 | [Jobs engine](software/jobs-engine.md) | Websites for local businesses fund junior engineering roles |
+| [DNS / GoDaddy → GitHub Pages](operations/dns-github-pages.md) | Fix parking pages; A/CNAME records |
 | [Howden Community Hub](locations/howden-community-hub.md) | Community / meeting venue |
 
 ## Company
