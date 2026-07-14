@@ -22,7 +22,7 @@ Vision, strategy, and reference material for the [Tyneside Software](https://git
 |----------|-------------|
 | [The full idea behind Tyneside Software](vision/the-full-idea.md) | Three-pronged plan: software, local entrepreneurs, charity — and why |
 | [First business meeting](operations/first-business-meeting.md) | 12 July 2026 · Howden Community Hub café · invitees |
-| [Participation scheme (draft)](people/participation-scheme.md) | 1% unlock @ 0.2%/hr, free learning, laptop loan / buy |
+| [Participation scheme (draft)](people/participation-scheme.md) | Train free → gateway tests → paid when typing; equity on paid hours; laptop loan |
 | [Howden Community Hub](locations/howden-community-hub.md) | Community / meeting venue |
 
 ## Company
