@@ -1,131 +1,131 @@
-# Participation, learning & laptop scheme (draft)
+# Participation scheme (draft)
 
-> **Status:** Working design notes from Michael — **not legal advice**, not a signed SHA, not final articles of association.  
-> Formal equity must be implemented properly (company law, agreements, tax). Treat numbers below as **intent** until counsel/docs catch up.
+> **Status:** Working design notes from Michael — **not legal advice**, not a signed agreement.  
+> Numbers and thresholds stay **intent** until formalised.
 
-## Who this is for
+## Core idea
 
-Invitees to the [first business meeting](../operations/first-business-meeting.md) (and similar future joiners):
+```text
+  TRAIN (free, unlimited)     GATEWAY (tests)      PAID WORK (typing)
+  ─────────────────────  →  ────────────────  →  ─────────────────
+  Audio + practice MCQs        Score high enough     Paid while working
+  as long as they like         to pass               Equity unlocks with hours
+```
 
-- Reeve Marakkalsherry  
-- Yusuf Sahin  
-- Jeff Martin  
-- Sam Smiles  
-
-(Lewis’s path may be family/succession-specific; Michael to confirm whether the same 1% pool rules apply.)
+1. **Train** as long as they want — no pay, no pressure, pure learning.  
+2. **Gateway** — tests that prove readiness; must **score high enough** to pass.  
+3. **Paid work** — once through the gateway, when they are **typing** (doing real work), **they are paid**.  
+4. **Equity unlock** (optional track for “in” participants) — still earned against paid hours (see below).
 
 ---
 
-## 1. Equity pot (proposed)
+## Phase 1 — Training (free)
+
+| Rule | Detail |
+|------|--------|
+| **Cost** | Free |
+| **Time limit** | None — train as long as they like |
+| **Activities** | Listen to audios; answer multi-choice / practice questions; re-sit practice as needed |
+| **Pay** | Not paid for training |
+| **Purpose** | Learn enough to clear the gateway and do useful work |
+
+Training is open to people who are curious even if they never take equity or a laptop.
+
+---
+
+## Phase 2 — Gateway (unlock paid work)
+
+| Rule | Detail |
+|------|--------|
+| **What** | Formal tests (multi-choice and/or other assessments defined later) |
+| **Pass bar** | Must **score high enough** (threshold TBD — e.g. %) |
+| **Retakes** | Can keep training and re-attempt until they pass |
+| **Effect of pass** | **Unlocks eligibility for paid work** |
+
+Until the gateway is passed: **no paid work queue**.  
+After pass: they can be assigned work; **when they are typing, they are paid**.
+
+### Open questions
+
+- Exact pass score / rubrics per track (coding, admin, cleaning systems, etc.)  
+- Who marks / proctors  
+- How often gateway runs  
+- Whether gateway is per-role or one general bar  
+
+---
+
+## Phase 3 — Paid work (“once they are typing”)
+
+| Rule | Detail |
+|------|--------|
+| **Trigger** | Gateway passed **and** they are doing approved work (“typing” / productive work for the business) |
+| **Pay** | **Paid** for that work — minimum wage (or better if defined later) for hours worked |
+| **Not paid** | Pure training time before/after gateway without assigned work |
+
+### Equity unlock (for participants who are “in”)
+
+Same commercial intent as before, **tied to paid work hours**, not free training:
 
 | Idea | Detail |
 |------|--------|
-| **Grant size** | **1%** of the company **allocated per participant** who is **in** |
-| **Vesting / unlock** | Not given free day one — **unlocked by work** |
-| **Unlock rate** | **0.2% per hour** of **minimum-wage-equivalent work** for the business |
-| **Math check** | 1% ÷ 0.2% per hour = **5 hours** of min-wage work to fully unlock that 1% |
+| **Allocation** | Up to **1%** per person who is in |
+| **Unlock rate** | **0.2% per hour** of **paid** min-wage (or scheme) work |
+| **Full unlock** | 1% ÷ 0.2%/hr ≈ **5 hours** of paid work to fully unlock that 1% |
 
-### Worked example
-
-| Hours of min-wage work | Equity unlocked (of their 1%) |
-|------------------------|-------------------------------|
-| 1 | 0.2% |
-| 2 | 0.4% |
-| 5 | **1.0% (fully unlocked)** |
-
-### Open questions (to resolve later)
-
-- Min wage **which year / which rate** (UK National Living Wage at date of work)?
-- What counts as “work” (coding, admin, cleaning programme, meetings, content)?
-- Who approves hours?
-- Leavers / leaver provisions if someone stops?
-- Dilution, new shares, option pool vs outright share transfer?
-- Cap table: 4 × 1% = 4% if all four non-Michael adults take it — confirm pool size and Michael’s remaining ownership.
+Training hours **do not** unlock equity. Only **paid work after gateway** counts.
 
 ---
 
-## 2. Free learning track (optional, no equity required)
+## Laptop scheme (aligned to learning + gateway)
 
-Anyone who wants to learn can do so **for free**, without joining the equity scheme:
-
-| Activity | Detail |
-|----------|--------|
-| **Audio** | Listen to training / briefing audios |
-| **Checks** | Answer **multiple-choice questions** to show they engaged |
-
-Purpose: low-pressure onboarding and education — “just learn things if they like.”
-
----
-
-## 3. Laptop-on-loan scheme
-
-### Earn a loan laptop
-
-In exchange for:
-
-- **1 hour of audio**, and  
-- **5 multi-choice questions** completed  
-
-…the business will provide a **laptop on loan**.
-
-| Term | Detail |
+| Step | Detail |
 |------|--------|
-| **Ownership** | Remains with the business while on loan |
-| **Purpose** | Enable learning and contribution |
-| **Return** | Device returned if participant leaves or scheme ends (unless purchased) |
-
-### Path to own the laptop
-
-Later, participants may **buy the laptop** for **its value**, using a **formula** (to be defined).  
-
-Example directions for the formula (not fixed yet):
-
-- Original cost minus depreciation (e.g. straight-line over N months), or  
-- Fair market value at purchase date, or  
-- Cost minus a credit for hours worked / unlocked equity contribution  
-
-**Action:** write `laptop-valuation-formula.md` when numbers exist (purchase price, model, depreciation rate).
+| **Loan path** | Complete **1 hour of audio + 5 multi-choice questions** (training milestone) → business provides a **laptop on loan** |
+| **Ownership** | Business owns the device until purchased or returned |
+| **Buy later** | May buy the laptop for **its value** via a **formula** (TBD) |
+| **Gateway** | Laptop supports training and later paid work; it does **not** by itself unlock pay — **gateway score** does |
 
 ---
 
-## 4. How the pieces fit
+## End-to-end flow
 
 ```text
-                    ┌─────────────────────┐
-                    │  Free learning      │
-                    │  audio + MCQs       │
-                    └─────────┬───────────┘
-                              │
-              1hr audio + 5 Qs│
-                              ▼
-                    ┌─────────────────────┐
-                    │  Laptop on loan     │
-                    └─────────┬───────────┘
-                              │
-                    optional  │  min-wage work hours
-                              ▼
-                    ┌─────────────────────┐
-                    │  Unlock up to 1%    │
-                    │  @ 0.2% per hour    │
-                    └─────────┬───────────┘
-                              │
-                    optional  │  formula purchase
-                              ▼
-                    ┌─────────────────────┐
-                    │  Own the laptop     │
-                    └─────────────────────┘
+  Invite / interest
+        │
+        ▼
+  Free training  ←── loop as long as they like
+  (audio, practice Qs)
+        │
+        │  ready?
+        ▼
+  Gateway tests ── fail ──► back to training
+        │
+      pass (high enough score)
+        │
+        ▼
+  Eligible for paid work
+        │
+        ▼
+  Typing / assigned work ──► PAID for those hours
+        │
+        ▼
+  Optional: equity unlocks @ 0.2% per paid hour (up to 1%)
+  Optional: buy loaned laptop via formula
 ```
 
 ---
 
-## 5. First meeting ask
+## First meeting (Howden)
 
-At Howden Community Hub café (12 July 2026):
+See [first business meeting](../operations/first-business-meeting.md).
 
-1. Explain the vision and three-pronged plan.  
-2. Invite each person to say **in / out / thinking**.  
-3. If in: outline learning path, laptop loan, and equity unlock draft.  
-4. Record decisions; no pressure for signatures on the day unless documents are ready.
+Explain at the café:
+
+1. Train free, as long as you need.  
+2. Gateway = score high enough → unlock paid work.  
+3. Once you’re typing for the business, **you get paid**.  
+4. Equity 1% / 0.2% per paid hour for those who are **in**.  
+5. Laptop loan after a small learning milestone; buy-out later.
 
 ---
 
@@ -133,4 +133,5 @@ At Howden Community Hub café (12 July 2026):
 
 | Date | Note |
 |------|------|
-| 2026-07-14 | Captured from Michael: location, invitees, 1% / 0.2% per hour, free audio+MCQ, laptop loan for 1hr+5Q, buy-out formula TBD |
+| 2026-07-14 | Initial capture: 1%, 0.2%/hr, audio+MCQ, laptop loan |
+| 2026-07-14 | Clarified **gateway**: train unlimited → pass tests → **paid when typing**; equity only on paid hours |
