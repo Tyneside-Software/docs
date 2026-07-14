@@ -8,6 +8,12 @@ I’m creating vertical logistics and work-management software for any business 
 
 We’re starting with cleaning companies because that’s where I have immediate access and proof-of-concept. The first version will be completely free for local cleaners (starting with Joanne, who I already work with). No catch — it’s an investment in reputation and real-world testing.
 
+### The jobs engine
+
+While we build that product, the team also builds **professional websites for local businesses**. Every paying website job **funds junior software engineering roles** — people entering or re-entering work, trained from the ground up on real client delivery. Website revenue is recycled into more junior roles. Our own sites (software, charity, cleaner portal) are built in-house as living proof.
+
+Detail: [How we create jobs in Tyneside](../software/jobs-engine.md).
+
 ## 2. Supporting Local Entrepreneurs (the cleaning side)
 
 At the same time I’m helping Joanne grow her new cleaning business. Free software, a proper website I’m building for her, and paid work through the charity angle. She gets everything she needs to scale, and I get a real customer who’s already bought in. It’s win-win and gives me a living, breathing case study from day one.

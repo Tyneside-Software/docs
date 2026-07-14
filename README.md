@@ -25,6 +25,7 @@ Vision, strategy, and reference material for the [Tyneside Software](https://git
 | [Participation scheme (draft)](people/participation-scheme.md) | Train → gateway → paid work; **1% company stake** via paid hours; laptop loan then **£ buy** at value |
 | [Laptop valuation (draft)](operations/laptop-valuation.md) | Value at loan + depreciation; sell for £ only |
 | [Forest Hall free cleans](charity/forest-hall-free-cleans.md) | Welcome-home cleans: phases, £12k/year full postcode, gift/extend |
+| [Jobs engine](software/jobs-engine.md) | Websites for local businesses fund junior engineering roles |
 | [Howden Community Hub](locations/howden-community-hub.md) | Community / meeting venue |
 
 ## Company
