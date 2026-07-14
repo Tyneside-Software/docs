@@ -3,19 +3,25 @@
 > **Status:** Working design notes from Michael — **not legal advice**, not a signed agreement.  
 > Numbers and thresholds stay **intent** until formalised.
 
-## Core idea
+## Two separate tracks
+
+| Track | What it is | How you get ownership |
+|--------|------------|------------------------|
+| **Company stake (equity)** | Up to **1% of the company** | Unlocked by **paid work hours** after gateway (not by buying a laptop) |
+| **Laptop** | Device on **loan** from the business | Own only by **buying with £** at **value price** (valued at loan + depreciation) |
+
+**Equity is never payment for the laptop. The laptop is never paid in shares.**
 
 ```text
-  TRAIN (free, unlimited)     GATEWAY (tests)      PAID WORK (typing)
-  ─────────────────────  →  ────────────────  →  ─────────────────
-  Audio + practice MCQs        Score high enough     Paid while working
-  as long as they like         to pass               Equity unlocks with hours
-```
+  TRAIN (free)  →  GATEWAY (pass tests)  →  PAID WORK (typing)  →  pay £/hr
+                                              │
+                                              └→ optional: unlock company stake
+                                                 (1% pot @ 0.2% per paid hour)
 
-1. **Train** as long as they want — no pay, no pressure, pure learning.  
-2. **Gateway** — tests that prove readiness; must **score high enough** to pass.  
-3. **Paid work** — once through the gateway, when they are **typing** (doing real work), **they are paid**.  
-4. **Equity unlock** (optional track for “in” participants) — still earned against paid hours (see below).
+  TRAIN milestone (1hr audio + 5 Qs)  →  laptop LOAN
+                                              │
+                                              └→ optional: BUY with £ at value price
+```
 
 ---
 
@@ -25,11 +31,9 @@
 |------|--------|
 | **Cost** | Free |
 | **Time limit** | None — train as long as they like |
-| **Activities** | Listen to audios; answer multi-choice / practice questions; re-sit practice as needed |
+| **Activities** | Audios; multi-choice / practice questions; re-sit as needed |
 | **Pay** | Not paid for training |
-| **Purpose** | Learn enough to clear the gateway and do useful work |
-
-Training is open to people who are curious even if they never take equity or a laptop.
+| **Equity** | Training does **not** unlock company stake |
 
 ---
 
@@ -37,20 +41,12 @@ Training is open to people who are curious even if they never take equity or a l
 
 | Rule | Detail |
 |------|--------|
-| **What** | Formal tests (multi-choice and/or other assessments defined later) |
-| **Pass bar** | Must **score high enough** (threshold TBD — e.g. %) |
-| **Retakes** | Can keep training and re-attempt until they pass |
-| **Effect of pass** | **Unlocks eligibility for paid work** |
+| **What** | Formal tests |
+| **Pass bar** | Must **score high enough** (threshold TBD) |
+| **Retakes** | Keep training and re-attempt until pass |
+| **Effect** | Unlocks eligibility for **paid work** only |
 
-Until the gateway is passed: **no paid work queue**.  
-After pass: they can be assigned work; **when they are typing, they are paid**.
-
-### Open questions
-
-- Exact pass score / rubrics per track (coding, admin, cleaning systems, etc.)  
-- Who marks / proctors  
-- How often gateway runs  
-- Whether gateway is per-role or one general bar  
+Does **not** by itself grant equity or laptop ownership.
 
 ---
 
@@ -58,60 +54,65 @@ After pass: they can be assigned work; **when they are typing, they are paid**.
 
 | Rule | Detail |
 |------|--------|
-| **Trigger** | Gateway passed **and** they are doing approved work (“typing” / productive work for the business) |
-| **Pay** | **Paid** for that work — minimum wage (or better if defined later) for hours worked |
-| **Not paid** | Pure training time before/after gateway without assigned work |
+| **Trigger** | Gateway passed **and** assigned work (“typing”) |
+| **Pay** | **Paid in money** for those hours (min wage or scheme rate) |
+| **Not paid** | Pure training time without assigned work |
 
-### Equity unlock (for participants who are “in”)
+### Company stake (equity) — separate from laptop
 
-Same commercial intent as before, **tied to paid work hours**, not free training:
+For people who are **in** on the equity track:
 
 | Idea | Detail |
 |------|--------|
-| **Allocation** | Up to **1%** per person who is in |
-| **Unlock rate** | **0.2% per hour** of **paid** min-wage (or scheme) work |
-| **Full unlock** | 1% ÷ 0.2%/hr ≈ **5 hours** of paid work to fully unlock that 1% |
+| **What** | A **stake in the company** — up to **1%** per person |
+| **Not** | Not a claim on any laptop or other kit |
+| **Unlock rate** | **0.2% of the company per hour** of **paid** work |
+| **Full unlock of their 1%** | 1% ÷ 0.2%/hr = **5 hours** of paid work |
+| **Training hours** | Do **not** count |
 
-Training hours **do not** unlock equity. Only **paid work after gateway** counts.
+Legal form (options, growth shares, etc.) TBD with proper docs.
 
 ---
 
-## Laptop scheme (aligned to learning + gateway)
+## Laptop scheme — loan, then buy with £ only
+
+### Loan
 
 | Step | Detail |
 |------|--------|
-| **Loan path** | Complete **1 hour of audio + 5 multi-choice questions** (training milestone) → business provides a **laptop on loan** |
-| **Ownership** | Business owns the device until purchased or returned |
-| **Buy later** | May buy the laptop for **its value** via a **formula** (TBD) |
-| **Gateway** | Laptop supports training and later paid work; it does **not** by itself unlock pay — **gateway score** does |
+| **Earn a loan** | Complete **1 hour of audio + 5 multi-choice questions** (training milestone) |
+| **What they get** | A laptop **on loan** — business remains owner |
+| **Return** | Returned if they leave or the loan ends, unless purchased |
 
----
+### Valuation at loan
 
-## End-to-end flow
+When the laptop is loaned out:
+
+1. Record **value at loan** (e.g. purchase cost or agreed fair value on that day).  
+2. That figure is the starting point for depreciation.
+
+### Depreciation & sale price
+
+| Rule | Detail |
+|------|--------|
+| **Ownership path** | **Only** by paying **£** — no equity, no free gift of title |
+| **Price** | **Value price** = depreciated value under the formula |
+| **Formula** | Depreciation from **value at loan** over time (exact schedule TBD) |
+
+Example shape (illustrative only — not final):
 
 ```text
-  Invite / interest
-        │
-        ▼
-  Free training  ←── loop as long as they like
-  (audio, practice Qs)
-        │
-        │  ready?
-        ▼
-  Gateway tests ── fail ──► back to training
-        │
-      pass (high enough score)
-        │
-        ▼
-  Eligible for paid work
-        │
-        ▼
-  Typing / assigned work ──► PAID for those hours
-        │
-        ▼
-  Optional: equity unlocks @ 0.2% per paid hour (up to 1%)
-  Optional: buy loaned laptop via formula
+value_price(t) = value_at_loan × (1 − depreciation_rate × months_on_loan)
+                 floored at residual_min (if any)
 ```
+
+Or straight-line to a residual over N months. **Write the real numbers** in [laptop-valuation.md](../operations/laptop-valuation.md) when kit costs are known.
+
+### Explicit non-rules
+
+- Completing audio/questions does **not** transfer ownership.  
+- Unlocking company stake does **not** transfer ownership of the laptop.  
+- Paid work does **not** automatically buy the laptop — that is a **separate cash purchase** at value price.
 
 ---
 
@@ -119,13 +120,11 @@ Training hours **do not** unlock equity. Only **paid work after gateway** counts
 
 See [first business meeting](../operations/first-business-meeting.md).
 
-Explain at the café:
+Explain clearly:
 
-1. Train free, as long as you need.  
-2. Gateway = score high enough → unlock paid work.  
-3. Once you’re typing for the business, **you get paid**.  
-4. Equity 1% / 0.2% per paid hour for those who are **in**.  
-5. Laptop loan after a small learning milestone; buy-out later.
+1. Train free → gateway → **paid when typing**.  
+2. **1% is a company stake**, unlocked by paid hours — **not** the laptop.  
+3. Laptop is **loan**; own it only by **buying with £** at **depreciated value**.  
 
 ---
 
@@ -133,5 +132,6 @@ Explain at the café:
 
 | Date | Note |
 |------|------|
-| 2026-07-14 | Initial capture: 1%, 0.2%/hr, audio+MCQ, laptop loan |
-| 2026-07-14 | Clarified **gateway**: train unlimited → pass tests → **paid when typing**; equity only on paid hours |
+| 2026-07-14 | Initial capture |
+| 2026-07-14 | Gateway + paid when typing |
+| 2026-07-14 | **Split tracks:** 1% = company stake only; laptop = £ buy at value (loan valuation + depreciation) |
