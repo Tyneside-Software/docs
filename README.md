@@ -36,4 +36,5 @@ Vision, strategy, and reference material for the [Tyneside Software](https://git
 - Incorporated 8 July 2026 · Newcastle upon Tyne  
 - **Registered office:** 10 Abbey Terrace, Newcastle upon Tyne, NE27 0QP  
 - **Community venue:** [Howden Community Hub](locations/howden-community-hub.md) (Family Gateway / Julie Marriott connection)  
-- SIC 58290  
+- SIC 58290
+| [Cleaning volume engine](cleaning/volume-engine.md) | £30/2hrs, zero founder draw, flywheel to charity |

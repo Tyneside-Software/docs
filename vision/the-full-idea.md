@@ -16,6 +16,8 @@ Detail: [How we create jobs in Tyneside](../software/jobs-engine.md).
 
 ## 2. Supporting Local Entrepreneurs (the cleaning side)
 
+The cleaning company is built for **volume and reach**: market sweet-spot pricing (**£30 for 2 hours** — where demand actually sits), **every pound to cleaner fees**, **no founder draw**. Grow indefinitely; commercial wins can be donated back to charity; expand postcode by postcode.
+
 At the same time I’m helping Joanne grow her new cleaning business. Free software, a proper website I’m building for her, and paid work through the charity angle. She gets everything she needs to scale, and I get a real customer who’s already bought in. It’s win-win and gives me a living, breathing case study from day one.
 
 ## 3. The Charity (social impact + publicity engine)
