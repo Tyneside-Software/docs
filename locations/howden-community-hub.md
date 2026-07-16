@@ -1,13 +1,24 @@
 # Howden Community Hub
 
-**Primary community / meeting location** for early Tyneside Software activity.
+**Primary base** for Tyneside Software, Cleaning, Charity and related activity.
 
-## Context
+## Role
 
-- Offered for use in connection with **Family Gateway** (Julie Marriott, CEO).
-- First formal business gathering uses the **café** space at the hub (see [first business meeting](../operations/first-business-meeting.md)).
+| Use | Detail |
+|-----|--------|
+| **Operational base** | Howden Community Hub, North Tyneside |
+| **First service area** | **Howden Ward** (cleaning volume + charity welcome-home cleans) |
+| **Registered office** | 10 Abbey Terrace, Newcastle upon Tyne, NE27 0QP (Companies House) |
 
-## Notes
+Connection with **Family Gateway** / Julie Marriott (café / community partnership).
 
-- Company registered address remains **10 Abbey Terrace, Newcastle upon Tyne, NE27 0QP** unless/until changed at Companies House.
-- Howden Community Hub is the **operational / community venue**, not necessarily the registered office.
+## Howden Ward planning figures (charity)
+
+| Metric | Planning estimate |
+|--------|-------------------|
+| Ward population | ~12–13k |
+| Births / year | **~150** (approx. UK-scale rate applied to ward size — refine with local data) |
+| Cost per free clean | £30 (2 hours @ £15/hr to cleaner) |
+| Full-ward annual cost | **~£4,500 / year** (150 × £30) |
+
+See [Forest Hall free cleans doc renamed in practice to Howden Ward programme](../charity/forest-hall-free-cleans.md) for funding phases.

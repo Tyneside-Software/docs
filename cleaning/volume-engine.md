@@ -2,6 +2,8 @@
 
 ## Intent
 
+**First area: Howden Ward.** Based at **Howden Community Hub**.
+
 Create **as much reach and volume as possible**. Cleaning is not a profit centre for the founder — it is a **jobs engine**, a **software wedge**, and a **feeder into charity** when surplus appears.
 
 ## Pricing: £30 for 2 hours
@@ -24,7 +26,7 @@ Create **as much reach and volume as possible**. Cleaning is not a profit centre
 1. **Reach** — book as many market-rate packs as possible; pay cleaners.  
 2. **Discover** — people in interesting places; **commercial contracts** at higher rates when available.  
 3. **Return** — donate surplus to [Tyneside Charity](https://tyneside.charity) (welcome-home cleans, more paid hours).  
-4. **Spread** — postcode by postcode. The joke is the whole world; if it kept working, take it that far.
+4. **Spread** — ward by ward / postcode by postcode. The joke is the whole world; if it kept working, take it that far.
 
 ## Software link
 
