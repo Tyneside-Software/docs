@@ -67,3 +67,25 @@ Related brands: [tyneside.software](https://tyneside.software) · [tyneside.clea
 3. Expand **postcode by postcode** using the same unit economics (£30 / clean).  
 
 See also: [the full idea](../vision/the-full-idea.md), [Howden Community Hub](../locations/howden-community-hub.md).
+
+
+## Why this exists (founder’s note)
+
+Michael’s ambition is to bring **prosperity to the North East** in the highest-leverage personal way he can find. Not a one-off donation — money and effort that **multiply**.
+
+### Personal experience
+
+In rough periods, keeping a house clean can slip — and that can strain family relationships. Hiring a cleaner was one of the **highest-impact supports** he has received: practical, dignifying, and out of proportion to how “small” it sounds.
+
+The moment that crystallised the programme was the weeks after his daughter **Harriet** was born: visitors, sleepless nights, no rest. The gift he wants for new parents is **two hours** back — time to relax and be with the baby.
+
+### Ripple effects
+
+| Ripple | Intent |
+|--------|--------|
+| **Parents** | Free 2-hour welcome-home deep clean |
+| **Cleaners** | Paid work and a pool of new customers (companies started to support this) |
+| **Software** | Real-world field-services product (Michael’s professional craft) |
+| **Region** | Jobs + capability that compound beyond a single gift |
+
+Published on the charity site under **Why I’m doing this**.
