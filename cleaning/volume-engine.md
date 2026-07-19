@@ -32,8 +32,18 @@ Create **as much reach and volume as possible**. Cleaning is not a profit centre
 
 Cleaning generates real field-service data and customers for [Tyneside Software](https://tyneside.software) / the jobs engine.
 
+### Online booking (implementation)
+
+- Live page: [tyneside.cleaning/book.html](https://tyneside.cleaning/book.html)  
+- Backend: [tyneside-api](https://github.com/Tyneside-Software/tyneside-api) on Google Cloud Run  
+- **Progress / pick-up notes:** [Cleaning booking + Cloud Run](../progress/cleaning-booking-cloud-run.md)  
+- Architecture inventory: [Repos and architecture](../operations/repos-and-architecture.md)
+
+As of 2026-07-19 the booking UI and API are deployed; finishing requires sharing the host Google Calendar with the Cloud Run service account (or public free/busy for reads). See the progress doc for the resume checklist.
+
 ## Related
 
 - [Forest Hall free cleans](../charity/forest-hall-free-cleans.md)
 - [Jobs engine](../software/jobs-engine.md)
 - [Full idea](../vision/the-full-idea.md)
+- [Cleaning booking progress](../progress/cleaning-booking-cloud-run.md)
